@@ -16,6 +16,6 @@ let package = Package(
     name: "SwiftyChrono",
     products: [
         .library(name: "SwiftyChrono", targets: ["SwiftyChrono"])
-    ]
+    ],
     dependencies: []
 )

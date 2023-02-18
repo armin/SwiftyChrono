@@ -6,6 +6,8 @@
 //  Copyright © 2017 Potix.
 //
 
+// swift-tools-version:4.2
+
 import PackageDescription
 
 let package = Package(
